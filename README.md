@@ -1,10 +1,10 @@
-______JOGO---TRILHA_____
+______JOGO TRILHA_____
 
 AUTORES: ALLISON PLATTYNIR, ANGELICA, DIEGO DE LIMA E MATHEUS.
 
 DISCIPLINA: Progamacao pra Redes. PROF: Joao.
 
-Descricao
+Descrição
 
 O jogo de Trilha tem dois participantes, que usam um tabuleiro para jogar.
 Jogadores - 2
