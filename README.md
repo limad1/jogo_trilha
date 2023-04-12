@@ -1,2 +1,2 @@
 # jogo_trilha
- Jogo feito em python na dispilna de programação orientada a objeto, orientato por Profº João.
+ Jogo feito em python na disciplina de Programação Orientada a Objeto, orientato por Profº João.
